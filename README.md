@@ -1,0 +1,2 @@
+# funny.github.io
+blog
