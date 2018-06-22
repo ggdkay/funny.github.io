@@ -1,0 +1,46 @@
+# Site settings
+title: Kate blog
+email: kaytan8090@gmail.com
+description:  Mark something funny
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://funny.github.io" # the base hostname & protocol for your site
+
+github_username:  ggdkay
+
+# Build settings
+#markdown: kramdown
+permalink: /:year/:month/:day/:title.html   #博文的固定链接
+paginate: 10                                #分页时每页博文数量
+author:                                     #自定义常亮
+  name: kate
+  email: kaytan8090@gmail.com
+  link: http://funny.github.io/
+  weibo: 
+  github: http://github.com/ggdkay
+title: Kate blog                             #自定义常量
+
+# avatar头像及Favicon
+avatar: 
+#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+locals:                                     #自定义常量
+  tags: 标签
+  about: 关于
+active: 技术                                 #自定义常量
+subscribe_rss: /pages/atom.xml              #订阅地址
+markdown: kramdown                         #markdown解释器
+
+# google analytics 设置
+#ga:
+#  id:
+#  url:
+#
+
+# baidu analytics 设置
+
+ba:
+  src: 
+
+# disqus 设置
+disqus:
+  shortname: Kate
