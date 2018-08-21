@@ -44,5 +44,3 @@ ba:
 # disqus 设置
 disqus:
   shortname: Kate
-
-theme: jekyll-theme-architect
