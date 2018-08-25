@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  百日共修（上-50）
+title:  百日共修（下-50）
 category: life
 tags: 提问，问题
 keywords: think your life
