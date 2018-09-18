@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 性能哪些事情
-category:  性能
+category: tester
 tags:  
 keywords:  性能
 description:
@@ -19,4 +19,3 @@ description:
 - GUI：Jmeter，LoadRunner
 - CMD：ApacheBench,Wrk,Siege
 - NOMN,
-

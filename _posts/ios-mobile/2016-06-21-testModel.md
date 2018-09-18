@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test-title
-category: ios
+category: mobile
 tags: IOS,OBJECTC,SWIFT
 keywords: IOS,OBJECTC,SWIF
 description:
